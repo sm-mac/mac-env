@@ -20,6 +20,8 @@ Simplistic interactive filtering tool
 Simplistic interactive filtering tool
 
 ####6. [ranger](https://github.com/ranger/ranger)
-https://github.com/ranger/ranger
+
+####7. [pandoc](http://pandoc.org/)
+Document converter and processor
 
 [Resource](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019#.5ofj3lmvg)
